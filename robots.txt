@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homeofficesetup.com/blog-homeofficesetup/sitemap.xml
